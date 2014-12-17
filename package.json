@@ -10,7 +10,7 @@
         { "name": "frank", "email": "flee@wizcorp.jp" }
     ],
     "dependencies": {
-        "pm2": "https://github.com/tokyowizard/PM2.git#ao"
+        "pm2": "git+https://github.com/tokyowizard/PM2.git#ao"
     },
     "repository": {
         "type": "git",
