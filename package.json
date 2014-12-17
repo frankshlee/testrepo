@@ -4,7 +4,7 @@
     "version": "0.1.0",
     "author": "Frank <flee@wizcorp.jp>",
     "engines": {
-        "node": "0.10.24"
+        "node": "0.10.33"
     },
     "maintainers": [
         { "name": "frank", "email": "flee@wizcorp.jp" }
