@@ -1,0 +1,19 @@
+{
+    "name": "test",
+    "description": "test repo",
+    "version": "0.1.0",
+    "author": "Frank <flee@wizcorp.jp>",
+    "engines": {
+        "node": "0.10.33"
+    },
+    "maintainers": [
+        { "name": "frank", "email": "flee@wizcorp.jp" }
+    ],
+    "dependencies": {
+        "pm2": "git+https://github.com/tokyowizard/PM2.git#ao"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/tokyowizard/testrepo.git"
+    }
+}
